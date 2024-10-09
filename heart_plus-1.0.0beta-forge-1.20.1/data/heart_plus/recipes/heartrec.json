@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    "ddd",
+    "edf"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:chicken"
+    },
+    "b": {
+      "item": "minecraft:rotten_flesh"
+    },
+    "c": {
+      "item": "minecraft:porkchop"
+    },
+    "d": {
+      "item": "heart_plus:bigheartshard"
+    },
+    "e": {
+      "item": "minecraft:beef"
+    },
+    "f": {
+      "item": "minecraft:mutton"
+    }
+  },
+  "result": {
+    "item": "heart_plus:heart",
+    "count": 1
+  }
+}
